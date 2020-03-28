@@ -1,4 +1,5 @@
 ---
+
 author: chriskotrotsios	
 title: Nintendo Wii
 image_url: /images/Wii.png 
@@ -11,4 +12,5 @@ tags:
  - Nintendo
  - Games
  - Interactive
+
 ---
