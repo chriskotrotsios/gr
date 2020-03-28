@@ -1,4 +1,4 @@
 # netlify.toml
 [build]
 command = "jekyll build"
-publish = "public"
+publish = "_site"
