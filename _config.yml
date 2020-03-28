@@ -14,7 +14,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://chriskotrotsios.github.io"
+url                      : "https://chriskotrotsios.github.io/mibookgr"
 baseurl                  : "/gr"
 repository               : "chriskotrotsios/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -65,7 +65,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://chriskotrotsios.github.io/gr"
+  home             : "https://chriskotrotsios.github.io/mibookgr"
   bitbucket        :
   codepen          :
   dribbble         :
