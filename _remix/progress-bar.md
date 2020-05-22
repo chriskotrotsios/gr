@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Interactive Buttons
+title: Progress Bar
 header: no
 categories:
  - forms
